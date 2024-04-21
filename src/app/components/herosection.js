@@ -19,13 +19,11 @@ const Herosection = ({title,imageUrl}) => {
                     <div className={herostyles.hero_content}>
                         <h1>{title}</h1>
                         <p>
-                            From award-winning dramas to blockbuster action movies, we&apos;ve got you covered. Browse
-                            our
-                            selection of the latest and greatest movies, and find your new favorite today.
+                            Explore thousands of job opportunities with all the information you need. It&apos;s your future. Come find it. Manage all your job application from start to finish
                         </p>
-                        <Link href="/movie">
+                        <Link href="/job">
                             <button className={mulish.className}>
-                                Explore Movies
+                                Explore Our Services
                             </button>
                         </Link>
                     </div>

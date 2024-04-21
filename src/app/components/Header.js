@@ -11,7 +11,7 @@ const Header = () => {
                 <div className={styles.main_header}>
                     <div className={styles.navbar_brand}>
                         <Link href="/">
-                            <Image src="/netflix.png" alt="mylogo" width={150} height={140}/>
+                            <Image src="/mylogo.png" alt="mylogo" width={180} height={80}/>
                             {/*<Image src="/logo.png" alt="mylogo" width={150} height={40}/>*/}
                         </Link>
                     </div>
